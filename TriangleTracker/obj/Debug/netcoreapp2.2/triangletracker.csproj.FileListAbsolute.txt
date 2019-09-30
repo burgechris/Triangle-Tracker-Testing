@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/bin/Debug/netcoreapp2.2/triangletracker.deps.json
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/bin/Debug/netcoreapp2.2/triangletracker.dll
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/bin/Debug/netcoreapp2.2/triangletracker.pdb
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/obj/Debug/netcoreapp2.2/triangletracker.csprojAssemblyReference.cache
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/obj/Debug/netcoreapp2.2/triangletracker.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/obj/Debug/netcoreapp2.2/triangletracker.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/obj/Debug/netcoreapp2.2/triangletracker.AssemblyInfo.cs
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/obj/Debug/netcoreapp2.2/triangletracker.dll
+/Users/Guest/Desktop/triangletrackertest.solution/triangletracker/obj/Debug/netcoreapp2.2/triangletracker.pdb
